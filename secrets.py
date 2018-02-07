@@ -1,0 +1,5 @@
+api_key= 'SW45VTooChSdoSR3zg6YPAs54'
+api_secret= 'UicRW09EIcvu1lKFvjxhYQ6wd1rUZZsoRHR4mvVYdUOsuwxPOE'
+
+access_token= '2417784996-F1EHNFFWrdNtSQD1iOefMWoXNKknEwgvvDDkfXl'
+access_token_secret= 'vVLfCAIxlQ6LqJp9Vxeg0ChIUJh2VGn6mpztBOLZ4ttWx'
